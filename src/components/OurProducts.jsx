@@ -3,7 +3,7 @@ import { OceanFCL, OceanLCL, InternationalAir, CustomsHandling, FtlPtl, TrailerR
 
 const OurProducts = () => {
   return (
-    <div className='md:w-3/4 mx-auto px-2 py-4'>
+    <div className='md:w-3/4 mx-auto px-2 py-8'>
       <h3 className="text-center font-bold text-3xl mb-16">Our Products</h3>
       <div className="grid gap-y-8">
         <div className="grid md:grid-cols-3 gap-x-8">
