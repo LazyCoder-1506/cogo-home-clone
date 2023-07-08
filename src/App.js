@@ -5,6 +5,7 @@ import NumbersSection from './components/NumbersSection';
 import OneStopSolution from './components/OneStopSolution';
 import OurProducts from './components/OurProducts';
 import TrustedBySection from './components/TrustedBySection';
+import IndustriesSection from './components/IndustriesSection';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <OurProducts />
       </div>
       <TrustedBySection />
+      <IndustriesSection />
       <CookieSection />
     </div>
   );
