@@ -12,3 +12,16 @@
 body {
   font-size: 14px;
 }
+
+@keyframes scroll {
+  0% {
+    left: 0;
+  }
+  100% {
+    left: -100%;
+  }
+}
+
+.animate {
+  animation: scroll 30s linear infinite;
+}
