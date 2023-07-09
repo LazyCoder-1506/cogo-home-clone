@@ -8,6 +8,7 @@ import TrustedBySection from './components/TrustedBySection';
 import NextLevelSection from './components/NextLevelSection';
 import IndustriesSection from './components/IndustriesSection';
 import GetStartedToday from './components/GetStartedToday';
+import VideoSection from './components/VideoSection';
 import GrowFasterSection from './components/GrowFasterSection';
 import BlogsSection from './components/BlogsSection';
 
@@ -24,6 +25,7 @@ function App() {
       <NextLevelSection />
       <IndustriesSection />
       <GetStartedToday />
+      <VideoSection />
       <GrowFasterSection />
       <BlogsSection />
     </div>

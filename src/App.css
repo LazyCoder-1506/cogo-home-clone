@@ -41,3 +41,13 @@ body {
 .get-started-img {
   animation: bounce 4s ease infinite;
 }
+
+#video-section {
+  background-image: url('https://www.cogoport.com/_next/image?url=https%3A%2F%2Fcdn.cogoport.io%2Fcms-prod%2Fcogo_public%2Fvault%2Foriginal%2Fhomepage-video.png&w=1920&q=75');
+  background-size: cover;
+  background-position: center center;
+}
+
+.lock-scroll {
+  overflow: hidden;
+}
