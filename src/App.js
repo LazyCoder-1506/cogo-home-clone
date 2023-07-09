@@ -12,6 +12,7 @@ import VideoSection from './components/VideoSection';
 import GrowFasterSection from './components/GrowFasterSection';
 import BlogsSection from './components/BlogsSection';
 import MainFooter from './components/MainFooter';
+import SecondFooter from './components/SecondFooter';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
       <GrowFasterSection />
       <BlogsSection />
       <MainFooter />
+      <SecondFooter />
     </div>
   );
 }
