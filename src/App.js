@@ -11,6 +11,7 @@ import GetStartedToday from './components/GetStartedToday';
 import VideoSection from './components/VideoSection';
 import GrowFasterSection from './components/GrowFasterSection';
 import BlogsSection from './components/BlogsSection';
+import MainFooter from './components/MainFooter';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
       <VideoSection />
       <GrowFasterSection />
       <BlogsSection />
+      <MainFooter />
     </div>
   );
 }
