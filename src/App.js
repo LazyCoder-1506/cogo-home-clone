@@ -9,6 +9,7 @@ import NextLevelSection from './components/NextLevelSection';
 import IndustriesSection from './components/IndustriesSection';
 import GetStartedToday from './components/GetStartedToday';
 import GrowFasterSection from './components/GrowFasterSection';
+import BlogsSection from './components/BlogsSection';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
       <IndustriesSection />
       <GetStartedToday />
       <GrowFasterSection />
+      <BlogsSection />
     </div>
   );
 }
