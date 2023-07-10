@@ -3,6 +3,7 @@ import './App.css';
 import CookieSection from './components/CookieSection';
 import FixedWhatsappButton from './components/FixedWhatsappButton';
 import DiscountRibbon from './components/DiscountRibbon';
+import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
 import NumbersSection from './components/NumbersSection';
 import OneStopSolution from './components/OneStopSolution';
@@ -24,6 +25,7 @@ function App() {
       <CookieSection />
       <FixedWhatsappButton />
       <DiscountRibbon />
+      <Navbar />
       <HeroSection />
       <NumbersSection />
       <div className='bg-light'>
