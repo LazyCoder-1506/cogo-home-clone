@@ -1,6 +1,7 @@
 import './App.css';
 
 import CookieSection from './components/CookieSection';
+import DiscountRibbon from './components/DiscountRibbon';
 import HeroSection from './components/HeroSection';
 import NumbersSection from './components/NumbersSection';
 import OneStopSolution from './components/OneStopSolution';
@@ -20,6 +21,7 @@ function App() {
   return (
     <div className="App">
       <CookieSection />
+      <DiscountRibbon />
       <HeroSection />
       <NumbersSection />
       <div className='bg-light'>
