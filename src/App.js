@@ -1,6 +1,7 @@
 import './App.css';
 
 import CookieSection from './components/CookieSection';
+import FixedWhatsappButton from './components/FixedWhatsappButton';
 import DiscountRibbon from './components/DiscountRibbon';
 import HeroSection from './components/HeroSection';
 import NumbersSection from './components/NumbersSection';
@@ -21,6 +22,7 @@ function App() {
   return (
     <div className="App">
       <CookieSection />
+      <FixedWhatsappButton />
       <DiscountRibbon />
       <HeroSection />
       <NumbersSection />
