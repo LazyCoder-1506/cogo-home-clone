@@ -7,6 +7,7 @@ import OneStopSolution from './components/OneStopSolution';
 import OurProducts from './components/OurProducts';
 import TrustedBySection from './components/TrustedBySection';
 import NextLevelSection from './components/NextLevelSection';
+import HowItWorks from './components/HowItWorks';
 import IndustriesSection from './components/IndustriesSection';
 import GetStartedToday from './components/GetStartedToday';
 import VideoSection from './components/VideoSection';
@@ -27,6 +28,7 @@ function App() {
       </div>
       <TrustedBySection />
       <NextLevelSection />
+      <HowItWorks />
       <IndustriesSection />
       <GetStartedToday />
       <VideoSection />
